@@ -1,0 +1,8 @@
+{
+  "name": "memoliv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "5a58fec1"
+}
